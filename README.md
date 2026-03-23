@@ -1,6 +1,6 @@
 # Helloo, I'm Mohib. Here's a brief intro about my work:
 
-**Building AI agents with Google ADK/Microsoft/LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**
+**Building AI agents with Google ADK,MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**
 
 📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**
 
@@ -38,4 +38,4 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 ---
 
 Public Profiles: 
-[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn]((https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302/))
+[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn]((https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302))
