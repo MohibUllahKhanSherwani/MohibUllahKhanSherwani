@@ -38,4 +38,4 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 ---
 
 Public Profiles: 
-[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn]((https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302))
+[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn](https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302)
