@@ -2,12 +2,12 @@
 
 **Building AI agents with Google ADK/Microsoft/LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**
 
-📍 **Karachi, Pakistan** | 🤖 **SWE-AI/ML @ Kalsoft**
+📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**
 
 ---
 
-**Currently**: Architecting AI Agents & high-performance backends for the enterprise.  
-**Previously**: Flutter developer building award-winning mobile experiences (see eco-track repo [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking)). 
+**Currently**: Building AI Agents & high-performance backends for the enterprise.  
+**Previously**: Flutter developer building award-winning mobile experiences (see eco-track project repo [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking)). 
 Built corporate workflows with **Microsoft Power Automate** and low-code chatbots in **Copilot Studio**.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
@@ -38,4 +38,4 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 ---
 
 Public Profiles: 
-[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn](https://linkedin.com/in/mohib-ullah-khan-sherwani/)
+[GitHub](https://github.com/MohibUllahKhanSherwani) | [LinkedIn]((https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302/))
