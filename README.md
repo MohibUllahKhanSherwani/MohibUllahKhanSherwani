@@ -26,7 +26,7 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 
 * 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
 * 🤟 [SignSpeak](https://github.com/MohibUllahKhanSherwani/SignSpeak_FYP) – My Final Year Project: Pakistan Sign Language dataset creation, ML model, and mobile application.
-* 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – ** 🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for environmental issues.
+* 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – **🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for environmental issues.
 * 🧠 [PSL-ExplainRAG](https://github.com/MohibUllahKhanSherwani/Pakistan_Sign_Language_RAG_System) – To help with removing sign amibguity in my FYP, I built a RAG system, semantic text chunking, and FAISS.
 * 🛠️ [Agentic-AI-Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – A template for building multi-agent AI systems using Google ADK.
 * 🗺️ [AI-Systems-Roadmap](https://github.com/MohibUllahKhanSherwani/applied-ai-systems-backend-systems-roadmap) – Structured journey and architectural principles for becoming an Applied AI / LLM Systems Engineer.
