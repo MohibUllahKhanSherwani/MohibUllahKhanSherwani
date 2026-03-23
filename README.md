@@ -19,9 +19,9 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-> **Deep in the agentic loop** — building sophisticated AI agents on the **Google Agent Development Kit (ADK)** for corporate workflows. Bridging the gap between high-performance .NET/FastAPI backends and intelligent ML systems.
+> **Deep in the agentic loop** , currently building sophisticated AI agents on the **Google Agent Development Kit (ADK)** for corporate workflows. Bridging the gap between high-performance .NET/FastAPI backends and intelligent ML systems.
 
-### Projects
+### Projects nd Other stuff
 
 
 * 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
