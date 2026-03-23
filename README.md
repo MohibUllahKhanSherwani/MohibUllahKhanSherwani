@@ -14,10 +14,10 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![Microsoft Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 > **Deep in the agentic loop** — building sophisticated AI agents on the **Google Agent Development Kit (ADK)** for corporate workflows. Bridging the gap between high-performance .NET/FastAPI backends and intelligent ML systems.
 
