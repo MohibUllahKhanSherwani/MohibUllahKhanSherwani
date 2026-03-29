@@ -1,14 +1,16 @@
 # Helloo, I'm Mohib. Here's a brief intro about my work:
 
-**Building AI agents with Google ADK,MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**
+**Building AI agents with Google ADK,MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**  
 
 📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**
 
 ---
 
 **Currently**: Building AI Agents & high-performance backends for the enterprise.  
-**Previously**: Flutter developer building award-winning mobile experiences (see eco-track project repo [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking)). 
-Built corporate workflows with **Microsoft Power Automate** and low-code chatbots in **Copilot Studio**.
+**Previously**:
+<br>Authored world's first 60 words plus sign language dataset (see [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/))
+<br> Flutter developer building award-winning mobile experiences (see [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking)). 
+<br>Built corporate workflows with **Microsoft Power Automate** and low-code chatbots in **Copilot Studio**.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -23,7 +25,7 @@ Built corporate workflows with **Microsoft Power Automate** and low-code chatbot
 
 ### Projects
 
-* ✍️ Author of first 60 words plus word-level [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/)
+* ✍️ [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) Created world's first 60 words plus word-level Pakistan Sign Language Dataset, which is the need of one million plus sign language users across the country.
 * 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
 * 🤟 [SignSpeak](https://github.com/AbuZar-Babar/SignSpeak) – FYP: Real-time PSL-to-text translation (Kotlin mobile + FastAPI backend + LLM).
 * 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – **🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for environmental issues.
