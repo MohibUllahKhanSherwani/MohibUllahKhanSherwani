@@ -8,7 +8,7 @@
 
 **Currently**: Building AI Agents & high-performance backends for the enterprise.  
 **Previously**:
-<br>Authored world's first 60 words plus sign language dataset (see [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/))
+<br>Authored world's largest (60+ words) sign language dataset (see [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/))
 <br> Flutter developer building award-winning mobile experiences (see [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking)). 
 <br>Built corporate workflows with **Microsoft Power Automate** and low-code chatbots in **Copilot Studio**.
 
