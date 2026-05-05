@@ -29,6 +29,7 @@
 * 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
 * 🤟 [SignSpeak](https://github.com/AbuZar-Babar/SignSpeak) – FYP: Real-time PSL-to-text translation (Kotlin mobile + FastAPI backend + LLM).
 * 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – **🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for environmental issues.
+* 🚰 [Vessel](https://github.com/MohibUllahKhanSherwani/vessel) – AI-powered water tanker marketplace backend built with **ASP.NET Core 10 Web API**, **Clean Architecture**, **EF Core**, **Supabase PostgreSQL**, **SignalR real-time alerts**, **Hangfire jobs**, and market insights.
 * 🧠 [PSL-ExplainRAG](https://github.com/MohibUllahKhanSherwani/Pakistan_Sign_Language_RAG_System) – To help with removing sign ambiguity in my FYP, I built a RAG system, with semantic text chunking, and FAISS.
 * 🛠️ [Agentic-AI-Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – A template for building multi-agent AI systems using Google ADK.
 * 🎮 [Umbra Rift](https://github.com/MohibUllahKhanSherwani/Umbra_Rift_Unity_Game) – Interactive Unity game developed as a semester project.
