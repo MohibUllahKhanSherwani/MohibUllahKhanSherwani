@@ -44,7 +44,7 @@
 
 ### Tools & MCP Servers
 
-* 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – A Model Context Protocol (MCP) server that empowers AI agents to interact with WhatsApp for messaging and automation.
+* 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – A specialized MCP server built to bridge AI agents with the Pakistani ecosystem, empowering local businesses and everyday users to automate workflows over WhatsApp.
 * 🛠️ [Agentic-AI-Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – A professional template for building multi-agent AI systems using the Google Agent Development Kit (ADK).
 
     </td>
