@@ -30,39 +30,42 @@
 
 ### 💼 Enterprise Experience @ Kalsoft
 
-> 🔒 Private codebases on Azure DevOps. Described here for professional context.
-
 * 🤖 **AI HRM System** – End-to-end multi-agent hiring pipeline automating candidate screening, STT/TTS voice interviews, and onboarding workflows.
   <br>**Python • FastAPI • MongoDB • Google ADK • Gemini • Whisper**
+* 💬 **Text-to-SQL Agent** – Multi-stage agent platform translating natural language to relational queries with beautiful visualizations and strict read-only execution guardrails.
+  <br>**Python • FastAPI • PostgreSQL • SQLite • MongoDB • Google ADK**
 * 📊 **Forecasting Engine** – Multi-agent BI platform utilizing a custom FastMCP analytics server for KPI analysis and time-series demand forecasting.
   <br>**Python • FastAPI • MongoDB • Google ADK • FastMCP**
-* 💬 **Text-to-SQL Agent** – Multi-stage agent platform translating natural language to relational queries with strict read-only execution guardrails.
-  <br>**Python • FastAPI • PostgreSQL • SQLite • MongoDB • Google ADK**
+
 * 📑 **Contract Evaluator** – Decision-support platform fusing vendor KPI, incident, and performance data to generate procurement recommendations. *(Demo: [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai))*
   <br>**Python • FastAPI • MongoDB • Google ADK**
 
 ### 🛠️ Open Source & Personal Projects
 
-* ✍️ [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) Created world's first 60 words plus word-level Pakistan Sign Language Dataset, which is the need of one million plus sign language users across the country.
-* 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
-* 🤟 [SignSpeak](https://github.com/AbuZar-Babar/SignSpeak) – FYP: Real-time PSL-to-text translation (Kotlin mobile + FastAPI backend + LLM).
-* 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – **🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for environmental issues.
-* 🚰 [Vessel](https://github.com/MohibUllahKhanSherwani/vessel) – AI-powered water tanker marketplace backend built with **ASP.NET Core 10 Web API**, **Clean Architecture**, **EF Core**, **Supabase PostgreSQL**, **SignalR real-time alerts**, **Hangfire jobs**, and market insights.
-* 🧠 [PSL-ExplainRAG](https://github.com/MohibUllahKhanSherwani/Pakistan_Sign_Language_RAG_System) – To help with removing sign ambiguity in my FYP, I built a RAG system, with semantic text chunking, and FAISS.
-* 🎮 [Umbra Rift](https://github.com/MohibUllahKhanSherwani/Umbra_Rift_Unity_Game) – Interactive Unity game developed as a semester project.
-* 🤐 [Text File Zipper using Huffman encoding](https://github.com/MohibUllahKhanSherwani/Text-file-zipper-using-Huffman-Encoding) - Text file zipper using huffman encoding built in Java as a class project
+* ✍️ [PSL Dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) – World's first structured 60+ word-level Pakistan Sign Language dataset for academic and sign research.
+* 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – Model Context Protocol server bridging AI agents with local business ecosystems for automated messaging.
+  <br>**Python • Go • MCP Protocol • WhatsMeow**
+* 🤟 [SignSpeak](https://github.com/AbuZar-Babar/SignSpeak) – FYP: Real-time sign language translation system translating continuous video input to context-aware text sentences.
+  <br>**Python • Kotlin • TensorFlow Lite • OpenCV • FastAPI**
+* 🌿 [Eco-Track](https://github.com/MohibUllahKhanSherwani/eco_track_environmental_issues_reporting_nd_tracking) – **🥇 Winner of Inter-Subject Project Competition.** Community engagement platform for tracking local ecological issues.
+  <br>**Dart • Flutter • Firebase**
+* 🚰 [Vessel](https://github.com/MohibUllahKhanSherwani/vessel) – AI-powered water tanker marketplace backend with Clean Architecture, background jobs, and real-time alerts.
+  <br>**C# • ASP.NET Core 10 • PostgreSQL • SignalR • EF Core • Hangfire**
+* 🧠 [PSL-ExplainRAG](https://github.com/MohibUllahKhanSherwani/Pakistan_Sign_Language_RAG_System) – Vector search semantic RAG engine built with FAISS to handle PSL vocabulary and sign ambiguity.
+  <br>**Python • FAISS • Sentence Transformers • RAG**
+* 🎮 [Umbra Rift](https://github.com/MohibUllahKhanSherwani/Umbra_Rift_Unity_Game) – Interactive 3D adventure game developed as a semester project.
+  <br>**C# • Unity 3D**
+* 🤐 [Huffman Zipper](https://github.com/MohibUllahKhanSherwani/Text-file-zipper-using-Huffman-Encoding) – Java-based file compression utility utilizing custom Huffman encoding structures.
+  <br>**Java**
 
-### Tools & MCP Servers
+### 🧠 Learning & Resources
 
-* 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – A specialized MCP server built to bridge AI agents with the Pakistani ecosystem, empowering local businesses and everyday users to automate workflows over WhatsApp.
-* 🛠️ [Agentic-AI-Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – A professional template for building multi-agent AI systems using the Google Agent Development Kit (ADK).
+* 🛠️ [Agentic AI Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – Professional starter template for building multi-agent AI systems with the Google Agent Development Kit (ADK).
+* 🗺️ [AI Systems Roadmap](https://github.com/MohibUllahKhanSherwani/applied-ai-systems-backend-systems-roadmap) – Structured journey and architectural principles for becoming an Applied AI / LLM Systems Engineer.
+* 🔨 [Build Your Own GPT](https://github.com/MohibUllahKhanSherwani/BuildYourOwnGPT) – Deep dive into self-attention mechanics and building GPT-style architectures from scratch.
+* 🔬 [AI/ML Experiments](https://github.com/MohibUllahKhanSherwani/ml_projects) – Hands-on learning repository with fundamental machine learning models and experiments.
+* 💻 [DSA Problems](https://github.com/MohibUllahKhanSherwani/LeetCodeProblems) – Optimized algorithmic challenge solutions mapped out to reinforce problem-solving.
 
-### Learning
-
-* 🗺️ [AI-Systems-Roadmap](https://github.com/MohibUllahKhanSherwani/applied-ai-systems-backend-systems-roadmap) – Structured journey and architectural principles for becoming an Applied AI / LLM Systems Engineer.
-* 🔨 [BuildYourOwnGPT](https://github.com/MohibUllahKhanSherwani/BuildYourOwnGPT) - This is LLM training, self-attention learning I did following Andrej Karpathy's tutorial. 
-* 🔬 [AI/ML learning projects](https://github.com/MohibUllahKhanSherwani/ml_projects) - These are the projects I did to learn AI/ML. I believe anyone with interest in this field should start with these projects.
-*  🧠 [LeetCode](https://github.com/MohibUllahKhanSherwani/LeetCodeProblems) - LeetCode problems I did to learn DSA
 
 ---
 
