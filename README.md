@@ -28,7 +28,20 @@
 
 > **Deep in the agentic loop** , currently building sophisticated AI agents on the **Google Agent Development Kit (ADK)** for corporate workflows. Bridging the gap between high-performance .NET/FastAPI backends and intelligent ML systems.
 
-### Projects
+### 💼 Enterprise Experience @ Kalsoft
+
+> 🔒 Private codebases on Azure DevOps. Described here for professional context.
+
+* 🤖 **AI HRM System** – End-to-end multi-agent hiring pipeline automating candidate screening, STT/TTS voice interviews, and onboarding workflows.
+  <br>**Python • FastAPI • MongoDB • Google ADK • Gemini • Whisper**
+* 📊 **Forecasting Engine** – Multi-agent BI platform utilizing a custom FastMCP analytics server for KPI analysis and time-series demand forecasting.
+  <br>**Python • FastAPI • MongoDB • Google ADK • FastMCP**
+* 💬 **Text-to-SQL Agent** – Multi-stage agent platform translating natural language to relational queries with strict read-only execution guardrails.
+  <br>**Python • FastAPI • PostgreSQL • SQLite • MongoDB • Google ADK**
+* 📑 **Contract Evaluator** – Decision-support platform fusing vendor KPI, incident, and performance data to generate procurement recommendations. *(Demo: [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai))*
+  <br>**Python • FastAPI • MongoDB • Google ADK**
+
+### 🛠️ Open Source & Personal Projects
 
 * ✍️ [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) Created world's first 60 words plus word-level Pakistan Sign Language Dataset, which is the need of one million plus sign language users across the country.
 * 📑 [Contracts-AI](https://github.com/MohibUllahKhanSherwani/vendor_contract_evaluation_agentic_ai) – Agentic AI platform for vendor contract evaluation built for a real-world client.
