@@ -1,6 +1,6 @@
 # Helloo, I'm Mohib. Here's a brief intro about my work:
 
-**Building AI agents with Google ADK,MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**  
+**Building AI agents with Google ADK, Crew AI, MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**  
 
 📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**  
 <br>
@@ -28,10 +28,6 @@
 
 > **Deep in the agentic loop** , currently building sophisticated AI agents on the **Google Agent Development Kit (ADK)** for corporate workflows. Bridging the gap between high-performance .NET/FastAPI backends and intelligent ML systems.
 
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
-
 ### Projects
 
 * ✍️ [Pakistan Sign Language dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) Created world's first 60 words plus word-level Pakistan Sign Language Dataset, which is the need of one million plus sign language users across the country.
@@ -43,19 +39,13 @@
 * 🎮 [Umbra Rift](https://github.com/MohibUllahKhanSherwani/Umbra_Rift_Unity_Game) – Interactive Unity game developed as a semester project.
 * 🤐 [Text File Zipper using Huffman encoding](https://github.com/MohibUllahKhanSherwani/Text-file-zipper-using-Huffman-Encoding) - Text file zipper using huffman encoding built in Java as a class project
 
-    </td>
-    <td width="45%" valign="top">
-
 ### Tools & MCP Servers
 
 * 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – A specialized MCP server built to bridge AI agents with the Pakistani ecosystem, empowering local businesses and everyday users to automate workflows over WhatsApp.
 * 🛠️ [Agentic-AI-Template](https://github.com/MohibUllahKhanSherwani/Agentic-AI-Development-Template-GoogleADK) – A professional template for building multi-agent AI systems using the Google Agent Development Kit (ADK).
 
-    </td>
-  </tr>
-</table>
-
 ### Learning
+
 * 🗺️ [AI-Systems-Roadmap](https://github.com/MohibUllahKhanSherwani/applied-ai-systems-backend-systems-roadmap) – Structured journey and architectural principles for becoming an Applied AI / LLM Systems Engineer.
 * 🔨 [BuildYourOwnGPT](https://github.com/MohibUllahKhanSherwani/BuildYourOwnGPT) - This is LLM training, self-attention learning I did following Andrej Karpathy's tutorial. 
 * 🔬 [AI/ML learning projects](https://github.com/MohibUllahKhanSherwani/ml_projects) - These are the projects I did to learn AI/ML. I believe anyone with interest in this field should start with these projects.
