@@ -1,6 +1,6 @@
 # Helloo, I'm Mohib. Here's a brief intro about my work:
 
-**Building AI agents with Google ADK, Crew AI, MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends. Vibecoding the frontend. 💻**  
+**Building AI agents with Google ADK, Crew AI, MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends.**  
 
 📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**  
 <br>
