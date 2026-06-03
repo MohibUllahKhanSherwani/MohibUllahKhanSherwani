@@ -2,7 +2,7 @@
 
 **Building AI agents with Google ADK, Crew AI, MS-Agentic Framework and LangChain. Focused on RAG, vector search, & scalable .NET/FastAPI backends.**  
 
-📍 **Pakistan** | 🤖 **Software Engineer-AI/ML Based @ Kalsoft**  
+📍 **Pakistan** | 🤖 **AI/ML Engineer @ Kalsoft**  
 <br>
 <a href="https://rankistan.dev">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMohibUllahKhanSherwani&style=flat" alt="Rankistan rank badge" height="24">
