@@ -43,6 +43,9 @@
 ### 🛠️ Open Source & Personal Projects
 
 * ✍️ [PSL Dataset](https://www.kaggle.com/datasets/mohib123456/dynamic-word-level-pakistan-sign-language-dataset/) – World's first structured 60+ word-level Pakistan Sign Language dataset for academic and sign research.
+* 📢 [Content Marketing Agent](https://github.com/MohibUllahKhanSherwani/Content-Marketing-Agent) – Multi-agent marketing operations platform automating editorial calendars, human-approved review queues, and publishing to WordPress, HubSpot, LinkedIn, and Meta.
+  <br>**Python • CrewAI • FastAPI • React • SQLite • Gemini**
+
 * 📱 [WhatsApp-MCP](https://github.com/MohibUllahKhanSherwani/whatsapp_mcp) – Model Context Protocol server bridging AI agents with local business ecosystems for automated messaging.
   <br>**Python • Go • MCP Protocol • WhatsMeow**
 * 🤟 [SignSpeak](https://github.com/AbuZar-Babar/SignSpeak) – FYP: Real-time sign language translation system translating continuous video input to context-aware text sentences.
