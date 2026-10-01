@@ -3,7 +3,7 @@
 **End-to-end Product Engineering with Multi-Agent Systems & AI in Enterprise ERPs. Taking products from raw client requirements all the way to multi-cloud production across AWS & Azure with scalable backends (.NET / FastAPI / Go).**  
 
 📍 **Pakistan** | 🤖 **Full-Stack AI Engineer @ Cognilium AI**  
-✉️ [mohibkhansherwani@gmail.com](mailto:mohibkhansherwani@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302) | 🐙 [GitHub](https://github.com/MohibUllahKhanSherwani)  
+✉️ [mohibkhansherwani@gmail.com](mailto:mohibkhansherwani@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mohib-ullah-khan-sherwani-290456302)
 <br>
 <a href="https://rankistan.dev">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMohibUllahKhanSherwani&style=flat" alt="Rankistan rank badge" height="24">
